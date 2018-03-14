@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00 
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0\ExtensionManager\Repositories\{60926e9d-cfec-49b6-8706-43b6ce5a4df3}]
+@=" http://vsgallery.royallondongroup.com/GalleryService.svc"
+"Priority"=dword:00000064
+"Protocol"="VSGallery"
+"DisplayName"="Royal London Gallery"
